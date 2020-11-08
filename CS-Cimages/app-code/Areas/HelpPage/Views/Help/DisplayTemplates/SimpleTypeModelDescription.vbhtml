@@ -1,0 +1,3 @@
+@Imports Catrin_Bot.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
